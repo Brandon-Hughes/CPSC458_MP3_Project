@@ -17,4 +17,4 @@ References:
     - chatgbt for an example of using fetch
 
 Deployed Site:
-    - 
+    - https://cpsc-458-mp-3-project.vercel.app/
